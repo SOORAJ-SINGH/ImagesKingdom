@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ImagesKingdom", "ImagesKingdom", "{74135B67-F10B-4CB0-BDBB-2EC05356DDBE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{A457A71B-2ADC-43A1-95E5-FE7CF92199B9}|BusinessLayer.dll;{0F75810C-7F31-4698-BEFC-97E7340E9E1F}|DataAccess.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/ImagesKingdom"
+		Debug.AspNetCompiler.PhysicalPath = "..\ImagesKingdom\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ImagesKingdom\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ImagesKingdom"
+		Release.AspNetCompiler.PhysicalPath = "..\ImagesKingdom\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ImagesKingdom\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1290"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{A457A71B-2ADC-43A1-95E5-FE7CF92199B9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataAccess", "DataAccess\DataAccess.vbproj", "{0F75810C-7F31-4698-BEFC-97E7340E9E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74135B67-F10B-4CB0-BDBB-2EC05356DDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74135B67-F10B-4CB0-BDBB-2EC05356DDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74135B67-F10B-4CB0-BDBB-2EC05356DDBE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{74135B67-F10B-4CB0-BDBB-2EC05356DDBE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A457A71B-2ADC-43A1-95E5-FE7CF92199B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A457A71B-2ADC-43A1-95E5-FE7CF92199B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A457A71B-2ADC-43A1-95E5-FE7CF92199B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A457A71B-2ADC-43A1-95E5-FE7CF92199B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F75810C-7F31-4698-BEFC-97E7340E9E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F75810C-7F31-4698-BEFC-97E7340E9E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F75810C-7F31-4698-BEFC-97E7340E9E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F75810C-7F31-4698-BEFC-97E7340E9E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

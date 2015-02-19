@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataAccess.cDataAccess">
+    <Position X="1.25" Y="0.5" Width="2.75" />
+    <Members>
+      <Method Name="cDataAccess" Hidden="true" />
+      <Method Name="CloseConnection" Hidden="true" />
+      <Method Name="OpenConnection" Hidden="true" />
+      <Method Name="RunActionQuery" Hidden="true" />
+      <Method Name="RunPassSQL" Hidden="true" />
+      <Method Name="RunSP" Hidden="true" />
+      <Method Name="RunSPReturnDataSet" Hidden="true" />
+      <Method Name="RunSPReturnDataTable" Hidden="true" />
+      <Method Name="RunSPReturnDR" Hidden="true" />
+      <Method Name="RunSPReturnInteger" Hidden="true" />
+      <Method Name="RunSPReturnMultiRS" Hidden="true" />
+      <Method Name="RunSPReturnRS" Hidden="true" />
+      <Method Name="RunSQL" Hidden="true" />
+      <Method Name="RunSQLReturnDataTable" Hidden="true" />
+      <Method Name="RunSQLReturnDR" Hidden="true" />
+      <Method Name="RunSQLReturnRecordCount" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

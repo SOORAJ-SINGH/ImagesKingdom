@@ -1,0 +1,16 @@
+﻿body {
+}
+
+/** css sprite for the print Button image to change on hover...  **/
+#printS {
+    background: url("../images/printSprite.jpg") repeat scroll -128px -59px transparent;
+    height: 36px;
+    padding: 24px 25px 14px 2px;
+    width: 25px;
+}
+#printS:hover {
+    background: url("../images/printSprite.jpg") repeat scroll -57px -59px transparent;
+    height: 36px;
+    padding: 24px 26px 14px 19px;
+    width: 14px;
+}

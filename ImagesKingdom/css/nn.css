@@ -1,0 +1,122 @@
+.sidetabnew{
+	height:21px;
+	font-family:Verdana;
+	font-size:11px;
+	color:#000;
+	text-decoration:none
+}
+
+.nodecoration{
+	color:#000;
+	text-decoration:none
+}
+
+.sidetabactive{
+	font-family:Verdana;
+	font-size:11px;
+	text-decoration:none;
+	color:#000
+}
+
+#sidetabactiveCat{
+	font-family:Verdana;
+	font-size:11px;
+	text-decoration:none;
+	color:#000;
+	padding-top:2px;
+	padding-bottom:2px;
+	vertical-align:text-bottom
+}
+
+.sidetabactive1{
+	font-family:Verdana;
+	font-size:11px;
+	text-decoration:none;
+	color:#000;
+	padding-top:3px;
+	height:14.5px;
+	padding-bottom:2px;
+	vertical-align:text-bottom
+}
+
+.sidetabsublinks{
+	height:10px;
+	font-family:Verdana;
+	font-size:11px;
+	text-decoration:none;
+	letter-spacing:0;
+	color:#17606c;
+	text-decoration:none;
+	border:0 solid #f7f7f7
+}
+
+.sidetabactive1test{
+	font-family:Verdana;
+	font-size:11px;
+	text-decoration:none;
+	color:#000;
+	padding-top:3px;
+	height:13px;
+	padding-bottom:2px;
+	vertical-align:text-bottom
+}
+
+.blue_bold_24{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	color:#467aaa;
+	line-height:25px
+}
+
+.blue_11{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	color:#4d76b8
+}
+
+.rednewmy{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:17px;
+	color:#d74900;
+	font-weight:bold
+}
+
+.black{
+	font-family:Arial,Helvetica,sans-serif;
+	color:#333;
+	font-size:13px
+}
+
+.green{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#407702
+}
+
+.black_14{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:14px;
+	color:#000
+}
+
+.black_bold_18{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:18px;
+	color:#0000px
+}
+
+.sidenew{
+	color:#36f
+}
+
+.sidetabactiveCat2012{
+	font-family:Verdana;
+	font-size:11px;
+	text-decoration:none;
+	color:#000;
+	padding-top:2px;
+	padding-bottom:2px;
+	vertical-align:text-bottom
+}
